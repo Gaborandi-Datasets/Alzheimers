@@ -1,4 +1,4 @@
-# Alzheimers
+# Alzheimer's Disease
 
 ## Abstracts and Titles from PubMed website about Alzheimer's Disease 
 
